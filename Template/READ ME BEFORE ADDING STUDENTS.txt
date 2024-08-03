@@ -1,0 +1,15 @@
+Before adding Students at ADD STUDENT Page confirm that following criteria is fulfilled:
+1. File should be in Excel Format ONLY.
+2. Format of Data should be like :
+	
+	|  Roll No.	|  Name | UserName |  Password |
+	|		|	  |		 |    	 |
+	|		|	  |		 |		 |
+
+3. DO NOT ADD Coloumn names in Excel.
+4. Make sure only data is present in the file as per above format and then upload file.
+
+**ALSO CHECKOUT THE TEMPLETE FILE FOR REFERENCE**
+
+//If any problem arises :
+Just truncate the table from the database and try again 
